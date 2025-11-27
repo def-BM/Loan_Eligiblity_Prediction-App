@@ -12,7 +12,7 @@ A machine-learning–based desktop application built using Python, Tkinter GUI, 
 
 🧠 Machine Learning Model
 
-The ML model was trained using the Loan Prediction Dataset (train.csv).
+The ML model was trained using the Loan Prediction Dataset (train.csv) and give 85% accuracy.
 
 🔍 Steps in Training:
 ML Phase	        Details
